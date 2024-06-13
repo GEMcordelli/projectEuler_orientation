@@ -9,3 +9,12 @@ for i in range(1,1000):
         sum+=i
 
 print sum
+
+
+#updates
+
+
+quick = [1,2,3,4,5]
+
+for in in quick:
+    print(quick)
